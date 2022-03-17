@@ -1,2 +1,4 @@
-# GitProj
-Learning Git. For second Time
+# Git Proj
+Learning Git. For second Time. Hello Everyone.
+
+
